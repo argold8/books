@@ -1,5 +1,9 @@
-Pramatic programmer - ***Currently Reading***<br>
-Software Engineering at Google - ***Currently Reading***<br>
+<h1>Engineering</h1>
+
+<h2>Reading List</h2>
+
+Pramatic programmer - Currently Reading<br>
+Software Engineering at Google - Currently Reading<br>
 Passionate Programmer<br>
 Clean architecture<br>
 Coders at work<br>
@@ -11,4 +15,7 @@ Team Topologies<br>
 Growing Object Oriented Software, Guided by Tests<br>
 Staff Engineer<br>
 Accelerate<br>
-Clean code - **DONE**, 3/3<br>
+The Phoenix Project<br>
+
+<br><h2>Finished Reading</h2>
+Clean code - <i>3/3</i><br>
