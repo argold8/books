@@ -4,7 +4,6 @@
 Work Rules!<br>
 The undoing project<br>
 So good they can't ignore you<br>
-
 <br><h2>Finished Reading</h2>
 Your money or your life<br>
 Think like a monk <i>!!!</i><br>

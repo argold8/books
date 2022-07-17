@@ -1,7 +1,5 @@
 <h1>Engineering</h1>
-
 <h2>Reading List</h2>
-
 Pramatic programmer - Currently Reading<br>
 Software Engineering at Google - Currently Reading<br>
 Passionate Programmer<br>
@@ -16,6 +14,5 @@ Growing Object Oriented Software, Guided by Tests<br>
 Staff Engineer<br>
 Accelerate<br>
 The Phoenix Project<br>
-
 <br><h2>Finished Reading</h2>
 Clean code - <i>3/3</i><br>
