@@ -14,5 +14,5 @@ Growing Object Oriented Software, Guided by Tests<br>
 Staff Engineer<br>
 Accelerate<br>
 The Phoenix Project<br>
-<br><h2>Finished Reading</h2>
+<h2>Finished Reading</h2>
 Clean code - <i>3/3</i><br>
